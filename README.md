@@ -1,6 +1,6 @@
 # ingredients_whatsapp
 ## ingredients
-Termux = https://www.mediafire.com/file/1gyc50ri82sjdnz/Termux.apk/file
+Termux = https://www.mediafire.com/file/1gyc50ri82sjdnz/Termux.apk/file\n
 APK Editor = https://www.mediafire.com/file/yd51f11n5e63lit/APK_Editor_Pro.apk/file
 
 ## Aplication Hack Wifi 
